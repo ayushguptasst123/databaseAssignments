@@ -409,11 +409,11 @@
       "index": "ac",
       "roundness": null,
       "seed": 1886807911,
-      "version": 420,
-      "versionNonce": 1338108617,
+      "version": 430,
+      "versionNonce": 1879694946,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1773394402112,
+      "updated": 1773399519624,
       "link": null,
       "locked": false,
       "text": "user_id, \ntotalPrice",
@@ -1069,7 +1069,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#ffffff"
+    "viewBackgroundColor": "#f5faff"
   },
   "files": {}
 }
